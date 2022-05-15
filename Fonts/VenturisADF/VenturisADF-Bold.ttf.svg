@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg>
+<metadata>
+Created by FontForge 20090622 at Thu Sep 27 12:32:57 2012
+ By ffonts
+Copyright (C) 2007 Arkandis Digital Foundry, from modifications to the Utopia fonts distributed through the TeX Users Group (http://tug.org/fonts/utopia) under the same license as the Utopia fonts themselves -See LICENSE-utopia file-.
+</metadata>
+<defs>
+<font id="VenturisADF-Bold" horiz-adv-x="500" >
+  <font-face 
+    font-family="Venturis ADF"
+    font-weight="700"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 8 6 0 0 0 2 0 3"
+    ascent="750"
+    descent="-250"
+    x-height="432"
+    cap-height="643"
+    bbox="-24.5 -230 1940 850"
+    underline-thickness="50"
+    underline-position="-50"
+    stemh="33"
+    stemv="136"
+    unicode-range="U+0020-U+FB04"
+  />
+<missing-glyph 
+d="M0 0v700h500v-700h-500zM250 395l170 255h-340zM280 350l170 -255v510zM80 50h340l-170 255zM50 605v-510l170 255z" />
+    <glyph glyph-name="AE" unicode="AE" horiz-adv-x="827" 
+d="M232 643l534.998 -0.000976562v-172h-32c-27 92 -42 129 -131 129h-64c-25 0 -31 -6 -31 -33v-206h82c54 0 65 16 79 84h33v-216h-33c-14 68 -25 84 -79 84h-82v-203c0 -59 27 -68 106 -68c100 0 116 51 147 151h33l-10 -193h-478v35c61 3 68 7 68 55v223h-138
+c-47 -112 -78 -187 -96 -236c-2.63281 -7.57031 -4.07422 -13.9492 -4.07422 -19.1719c0 -10.6436 5.9873 -16.4854 20.0752 -17.8271l55 -5v-35h-217v35c50 2 61 13 79 52c60 123 181 386 220 475c5.06641 10.5547 7.63867 18.793 7.63867 24.9385
+c0 8.41211 -4.81543 12.9062 -14.6377 14.0615l-55 7v35zM257.998 360.999h117v234h-8c-36 -73 -74 -157 -109 -234z" />
+    <glyph glyph-name="ae" unicode="ae" horiz-adv-x="718" 
+d="M286 118v128c-20 -9 -51 -22 -77 -37s-40 -35 -40 -77c0 -47 30 -74 64 -74c23 0 51 12 53 60zM636 222l-223 0.000976562c0 -93 27 -165 116 -165c52 0 89 28 115 79l31 -18c-29 -78 -87 -128 -188 -128
